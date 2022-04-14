@@ -1,6 +1,6 @@
 # Como testar
 
-Para inciar a aplicação é necessário executar o comando `yarn` ou `npm install` para que seja instalado todos os pacotes necessarios, em seguida execute o comando `yarn start` ou `npm run start`
+Para inciar a aplicação é necessário executar o comando `yarn` ou `npm install` para que seja instalado todos os pacotes necessarios, em seguida execute o comando `yarn start` ou `npm run start`, tendo em vista que todas as tela são responsivas se adequando à desktop, notebook, tablets e smartphones
 
 # Tecnologias utilizadas
 O projeto foi desenvolvido com React através da lib `create-react-app` com template typescript, para estilização foi utilizado as libs: `materialize-css` nos componentes `NAV` e `List`, enquanto para o modal foi utilizado a biblioteca `react-modal` e em todas as pages e componentes foram utilizadas a lib `styled-components`, enquanto para o recurso de scroll infinito foi utilizado recursos nativos do JS. 
@@ -20,3 +20,6 @@ Na tela de listagem de usuários é possível ver em forma de listas os usuário
 Ao clicar em um usuário  é exibido um modal com mais informações do usuáris:
 ![Screenshot from 2022-04-14 16-57-29](https://user-images.githubusercontent.com/71765438/163466224-2d44c66e-9075-476a-9cc9-7e2801101178.png)
 
+# Observações
+
+Como informado para a Camila, por assuntos de saúde eu tive pouco tempo para realizar o teste, portanto, não tive tempo hábil de realizar da forma desejada
